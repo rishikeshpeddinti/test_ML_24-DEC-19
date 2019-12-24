@@ -1,0 +1,20 @@
+
+Use given Iris dataset and solve the following quesions:
+
+1. Check the missing values in a given Dataset i.e., is NaN
+3. Show the count of different types of species
+4. Find the max,min and mean in values of any two species
+
+Your goal is to predict the species in a given dataset by considering target variable as "target" 
+and feature variable as "petal length".
+
+5. Apply Linear Regression to the given dataset without splitting dataset and Check the R squared score
+6. Split the dataset into training and testing sets and Check the R squared score
+
+Draw a graph:
+
+7. Scatterplot for sepal length and petal length
+8. Jointplot for sepal length and sepal width
+9. Bargraph for any one feature
+10. Boxplot for species and sepal width
+
